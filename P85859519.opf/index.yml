@@ -1,0 +1,11 @@
+id: 36d0769871084b0a8ae04ed288c7bccc
+annotation_type: index
+revision: '00001'
+annotations:
+  35508d61dd59486296216db60863b8ee:
+    parts: {}
+    span:
+    - vol: 79
+      start: 0
+      end: 840196
+    work_id: D4090m
