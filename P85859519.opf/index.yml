@@ -1,11 +1,11 @@
-id: c4e65d810bf249f5ae2afccbe4513d2b
+id: 264f5b0c04f34091b9b9f84cd9c3c75e
 annotation_type: index
 revision: '00001'
 annotations:
-  dfdb7d0e4ee045d8b937c70804332a7f:
+  d6249ff99ad34178881576cbb2c1d5e7:
     parts: {}
     span:
     - vol: 79
       start: 0
-      end: 840230
+      end: 838422
     work_id: D4090x
