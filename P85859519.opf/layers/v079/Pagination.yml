@@ -3242,60 +3242,70 @@ annotations:
     span:
       start: 617035
       end: 618400
+    note_ref: 44b9e73ee8a647e48cedc50e199a3b65
   c26f917fc4a141d19a4dc71e0b925a95:
     imgnum: 545
     reference: ''
     span:
       start: 618402
       end: 619681
+    note_ref: 44b9e73ee8a647e48cedc50e199a3b65
   2e01206a2a7643029ab373ba2088f10c:
     imgnum: 546
     reference: ''
     span:
       start: 619683
       end: 621052
+    note_ref: 44b9e73ee8a647e48cedc50e199a3b65
   5d7c523037bd4b8ba6f6c5f1f823b509:
     imgnum: 547
     reference: ''
     span:
       start: 621054
       end: 622354
+    note_ref: 44b9e73ee8a647e48cedc50e199a3b65
   48af480db72d475cb79f4e9864d4ca2e:
     imgnum: 548
     reference: ''
     span:
       start: 622356
       end: 623707
+    note_ref: 44b9e73ee8a647e48cedc50e199a3b65
   ce9c48d524764b9d85034249345cd4db:
     imgnum: 549
     reference: ''
     span:
       start: 623709
       end: 625040
+    note_ref: 44b9e73ee8a647e48cedc50e199a3b65
   1c37f65469ba4453823ab21702493307:
     imgnum: 550
     reference: ''
     span:
       start: 625042
       end: 626396
+    note_ref: 44b9e73ee8a647e48cedc50e199a3b65
   be08f80b752a4fc38301e14e1899d11d:
     imgnum: 551
     reference: ''
     span:
       start: 626398
       end: 627734
+    note_ref: 44b9e73ee8a647e48cedc50e199a3b65
   bab472fce5924730a378eb5e89563d88:
     imgnum: 552
     reference: ''
     span:
       start: 627736
       end: 629040
+    note_ref: 44b9e73ee8a647e48cedc50e199a3b65
   e03c77905b0e4ac88ce5085331121e91:
     imgnum: 553
     reference: ''
     span:
       start: 629042
       end: 630363
+    note_ref: 44b9e73ee8a647e48cedc50e199a3b65
   b2c05175932b4fffbcf2c6c920b7bb9d:
     imgnum: 554
     reference: ''
