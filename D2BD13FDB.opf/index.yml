@@ -4,8 +4,8 @@ revision: '00001'
 annotations:
   d6249ff99ad34178881576cbb2c1d5e7:
     parts: {}
+    work_id: D4090x
     span:
-    - vol: 79
+    - base: f65d
       start: 0
       end: 837221
-    work_id: D4090x
